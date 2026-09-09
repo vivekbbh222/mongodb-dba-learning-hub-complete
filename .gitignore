@@ -1,0 +1,17 @@
+node_modules/
+.env
+.env.*
+!.env.example
+dist/
+.vite/
+*.log
+*.pem
+*.ppk
+*.key
+*.pfx
+*.p12
+*.crt
+*.backup
+*.bak
+.DS_Store
+Thumbs.db
